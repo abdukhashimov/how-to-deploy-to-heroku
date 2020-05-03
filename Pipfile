@@ -12,6 +12,7 @@ gunicorn = "*"
 dj-database-url = "*"
 django-environ = "*"
 whitenoise = "*"
+django-cors-headers = "*"
 
 [requires]
 python_version = "3.7"
